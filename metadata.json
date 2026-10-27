@@ -1,0 +1,8 @@
+{
+  "name": "Calculadora Científica Moderna Python",
+  "description": "Calculadora científica moderna com cantos arredondados, funções trigonométricas, logaritmos, exponenciação, gráficos e gerador de script Python desktop nativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
